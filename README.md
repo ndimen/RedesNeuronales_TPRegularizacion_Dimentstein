@@ -25,5 +25,3 @@ Clasificación de 20 Newsgroups con un MLP en PyTorch, búsqueda de hiperparáme
 La notebook usa una versión rápida (menos trials, épocas y variantes). La tabla "Recortes para que corra rápido" del inicio del
 notebook lista cada recorte y cómo volver a la versión completa.
 
-## Uso de IA
-Ver la declaración al inicio del notebook.
