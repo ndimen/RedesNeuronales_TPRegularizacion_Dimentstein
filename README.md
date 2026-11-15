@@ -10,7 +10,7 @@ Clasificación de 20 Newsgroups con un MLP en PyTorch, búsqueda de hiperparáme
 ## Cómo correrlo
 1. Abrir el notebook en Google Colab y activar GPU: *Entorno de ejecución → Cambiar tipo de entorno → T4 GPU*.
 2. *Ejecutar todo*. Con GPU debería tardar pocos minutos; en CPU bastante más.
-3. Local: `pip install -r requirements.txt` y abrir con Jupyter.
+3. Local: `pip install -r requirements.txt` y abrir con Jupyter o Colab.
 
 ## Estructura del notebook
 1. Datos y pre-procesamiento (TF-IDF, stopwords / stem / lemma).
