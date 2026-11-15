@@ -1,0 +1,7 @@
+torch
+optuna
+scikit-learn
+nltk
+numpy
+pandas
+matplotlib
